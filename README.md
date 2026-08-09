@@ -62,7 +62,7 @@ The project was built to demonstrate how computer vision can be integrated with 
 ### Detection Evidence
 
 <p align="center">
-  <img src="detected_images/detection_2025-12-02_14-18-39.jpg" width="85%" alt="WildGuard AI detection evidence">
+  <img src="assets/poaching.png" width="85%" alt="WildGuard AI detection evidence">
 </p>
 
 > Detection frames are automatically saved with timestamps and can be reviewed from the dashboard gallery.
