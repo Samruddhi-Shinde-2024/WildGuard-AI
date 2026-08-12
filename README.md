@@ -508,21 +508,23 @@ The core idea is simple:
 
 **Samruddhi Shinde**
 
-Information Technology Student @ VIT Pune  
+Information Technology Student @ **Vishwakarma Institute of Technology, Pune**  
 Full Stack Developer • AI/ML Enthusiast
 
 <p>
+  <a href="https://github.com/Samruddhi-Shinde-2024">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
   <a href="https://samruddhi-portfolio-five.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-4F8CFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/samruddhi-shinde-37a3862a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>🛡️ WildGuard AI</strong><br>
-  <sub>Computer Vision for Wildlife Protection</sub>
+  ⭐ If you found this project useful, consider giving the repository a star!
 </p>
